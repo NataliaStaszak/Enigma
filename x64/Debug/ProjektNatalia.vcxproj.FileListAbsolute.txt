@@ -1,0 +1,3 @@
+D:\Dev\C++\pk-semestr-2\ProjektNatalia\x64\Debug\ProjektNatalia.exe
+C:\Users\nstas\Desktop\enig\ProjektNatalia\x64\Debug\ProjektNatalia.exe
+C:\Users\nstas\Desktop\enig\Enigma\x64\Debug\ProjektNatalia.exe

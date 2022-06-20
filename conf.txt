@@ -1,0 +1,9 @@
+A-G;B-Z;C-X;D-E;H-I;M-W;Q-P;R-N;S-F;T-L;U-J;V-K;Y-O;
+19
+A-Y;D-C;F-R;G-K;H-T;I-N;M-J;O-Q;P-B;S-X;U-W;V-E;Z-L;
+22
+B-H;C-X;D-I;J-K;L-Y;M-W;N-O;R-A;S-Q;T-E;U-G;V-F;Z-P;
+13
+A-V;D-H;F-U;G-T;I-P;J-E;L-X;M-Y;O-B;Q-N;S-R;W-C;Z-K;
+24
+A-H;B-F;D-W;E-V;G-R;I-M;J-P;N-S;O-Y;Q-L;T-U;X-C;Z-K;
